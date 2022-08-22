@@ -7,8 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "leaflet": "^1.8.0",
+    "leaflet-draw": "^1.0.4",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
+    "vue2-leaflet": "^2.7.1",
+    "vue2-leaflet-draw-toolbar": "^0.1.1",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
